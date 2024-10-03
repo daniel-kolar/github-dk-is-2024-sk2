@@ -8,3 +8,7 @@ Datum a čas provedení změny: 2024-09-29, 13:44
 
 ## 2. Změna provedená na lokále
 Datum a čas provedení změny: 2024-10-03, 13:02
+
+## 2. Změna provedená na GitHubu
+Datum a čas provedení změny: 2024-10-03, 13:14
+Daniel Kolář
