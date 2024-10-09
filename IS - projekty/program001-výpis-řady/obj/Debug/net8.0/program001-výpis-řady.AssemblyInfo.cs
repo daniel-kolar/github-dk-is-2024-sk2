@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program001-výpis-řady")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+923186caaa978f222cdb11a06b09c1b090ce895e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+184c9a388c1983e0f9aef05d1a23f14e7ffa2d16")]
 [assembly: System.Reflection.AssemblyProductAttribute("program001-výpis-řady")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program001-výpis-řady")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
