@@ -1,0 +1,15 @@
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\bin\Debug\net8.0\program001-výpis-řady.exe
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\bin\Debug\net8.0\program001-výpis-řady.deps.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\bin\Debug\net8.0\program001-výpis-řady.runtimeconfig.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\bin\Debug\net8.0\program001-výpis-řady.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\bin\Debug\net8.0\program001-výpis-řady.pdb
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.AssemblyInfoInputs.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.AssemblyInfo.cs
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.csproj.CoreCompileInputs.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.sourcelink.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\refint\program001-výpis-řady.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.pdb
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\program001-výpis-řady.genruntimeconfig.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program001-výpis-řady\obj\Debug\net8.0\ref\program001-výpis-řady.dll
