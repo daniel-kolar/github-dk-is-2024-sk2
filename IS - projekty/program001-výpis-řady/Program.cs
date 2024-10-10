@@ -2,18 +2,27 @@
 
 class Vypis_rady{
     static void Main(){
-        Console.WriteLine("zadej 1. cislo: ");
-        int prvni = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("zadej cislo vetsi nez 1.: ");
-        int posledni = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("zadej cislo, ktere chces pricist: ");
-        int krok = Convert.ToInt32(Console.ReadLine());
-        /*int prvni = 1;
-        int posledni = 10;
-        int krok = 2;*/
+        
+        //chci aby se program opakoval po stisku klavesy a
+        string again = "a";
+        while(again == "a"){
+            Console.Clear();
+            Console.WriteLine("*****************************");
+            Console.WriteLine("********Výpis řady***********");
+            Console.WriteLine("*****************************");
+            Console.WriteLine("********Daniel Kolář*********");
+            Console.WriteLine("*****************************\n"); //\n new line nebo console.writeline()
+            Console.WriteLine();
 
-        for (int i = prvni; i <= posledni; i += krok){
-            Console.WriteLine(i);
+            //vstup od uzivatele - TO-DO
+            
+
+            //logika pro vypis z rady - TO-DO
+
+
+            //opakovani programu - TO-DO
+            Console.WriteLine("pro opakovani programu stisknete klavesu a");
+            again = Console.ReadLine();
         }
     }
 }
