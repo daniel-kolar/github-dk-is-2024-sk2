@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Concurrent;
+using System.Reflection;
 
 class Vypis_rady{
     static void Main(){
@@ -47,6 +49,11 @@ class Vypis_rady{
 
 
             //logika pro vypis z rady - TO-DO
+            int current = first;
+            while(current <= last){
+                Console.WriteLine(current);
+                current += step;
+            }
 
 
             //opakovani programu - TO-DO
