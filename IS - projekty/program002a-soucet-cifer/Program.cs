@@ -35,6 +35,7 @@ class Vypis_rady{
             int suma = 0; //iteracni suma inicializuju jako neutralni treba s scitanim 0
             int numberBackup = number;
             int digit;
+            int soucin = 1;
 
             //pokud je cislo zaporne zmenim ho na kladne
             if(number < 0){
@@ -46,11 +47,14 @@ class Vypis_rady{
                 number = (number - digit) / 10;
                 Console.WriteLine("Digit je {0}", digit);
                 suma = suma + digit;
+                soucin = soucin * digit;
             }
             Console.WriteLine("Digit je {0}", number);
             suma = suma + number;
+            soucin = soucin * number;
 
             Console.WriteLine("\n\nSoucet cifer cisla {0} je {1}", numberBackup, suma);
+            Console.WriteLine("Soucit cifer cisla {0} je {1}\n\n", numberBackup, soucin);
 
             //opakovani programu - TO-DO
             Console.WriteLine("pro opakovani programu stisknete klavesu a");
