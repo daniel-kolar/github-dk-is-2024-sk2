@@ -2,7 +2,7 @@
 using System.Collections.Concurrent;
 using System.Reflection;
 
-class Vypis_rady{
+class Soucin_cifer{
     static void Main(){
         
         //chci aby se program opakoval po stisku klavesy a
