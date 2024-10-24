@@ -49,10 +49,35 @@ class Vypis_rady{
 
             Console.WriteLine("náhodna cisla: ");
 
+            int kladne = 0;
+            int zaporne = 0;
+            int nuly = 0;
+
             for(int i = 0; i < n; i++){
-                myArray[i] = randomNumber.Next(dm, hm + 1);
-                Console.WriteLine("{0}: ", myArray[i]);
+                myArray[i] = randomNumber.Next(dm, hm + 1); //generator
+                Console.Write("{0}; ", myArray[i]);
+
+                //neoptimalni reseni
+                /*if(myArray[i] > 0) //rozhodovani jestli je cislo kladne, zaporne nebo nula
+                    kladne++;
+                if(myArray[i] < 0)
+                    zaporne++;
+                if(myArray[i] == 0)
+                    nuly++;*/
+
+
+                //optimalni reseni
+                if(myArray[i] > 0)
+                    kladne++;
+                else if(myArray[i] < 0)
+                    zaporne++;
+                else
+                    nuly++;
             }
+
+            Console.WriteLine("\n\npocet kladnych cisel: {0} ", kladne);
+            Console.WriteLine("pocet zapornych cisel: {0} ", zaporne);
+            Console.WriteLine("nulova cisel: {0}", nuly);
 
 
             //opakovani programu - TO-DO
