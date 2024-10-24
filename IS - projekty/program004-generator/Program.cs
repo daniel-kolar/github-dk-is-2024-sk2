@@ -17,7 +17,7 @@ class Vypis_rady{
             Console.WriteLine();
 
             //vstup od uzivatele - lepsi varianta
-            Console.Write("zadejte pocet generovanych cisel (cele cislo): ");
+            Console.Write("zadejte pocet generovanych cisel (cele cislo): "); //obecny ukladani pro neznama data jsou dobre vyuzit arrays(pole)
             int n;
             while(!int.TryParse(Console.ReadLine(), out n)){
                 Console.WriteLine("Nezadali jste cele cislo. Zadejte znovu první celé číslo řady: ");
@@ -41,11 +41,22 @@ class Vypis_rady{
             Console.WriteLine("Pocet cisel: {0}; dolni mez: {1}; horni mez: {2}", n, dm, hm);
             Console.WriteLine("=====================\n\n");
 
+            //deklarace array(pole) - vic suplicku pro data, ktery maji svoje indexy
+            int[] myArray = new int[n]; //UZITECNE - nauc se to (vis, ze ti pole nikdy nesli)
+            
+            //priprava pro generovani nahodnych cisel
+            Random randomNumber = new Random();
 
+            Console.WriteLine("náhodna cisla: ");
+
+            for(int i = 0; i < n; i++){
+                myArray[i] = randomNumber.Next(dm, hm + 1);
+                Console.WriteLine("{0}: ", myArray[i]);
+            }
 
 
             //opakovani programu - TO-DO
-            Console.WriteLine("pro opakovani programu stisknete klavesu a");
+            Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
             again = Console.ReadLine();
         }
     }
