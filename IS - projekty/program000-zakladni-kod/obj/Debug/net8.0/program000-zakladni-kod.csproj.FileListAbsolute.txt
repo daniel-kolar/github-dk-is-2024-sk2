@@ -1,0 +1,15 @@
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\bin\Debug\net8.0\program000-zakladni-kod.exe
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\bin\Debug\net8.0\program000-zakladni-kod.deps.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\bin\Debug\net8.0\program000-zakladni-kod.runtimeconfig.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\bin\Debug\net8.0\program000-zakladni-kod.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\bin\Debug\net8.0\program000-zakladni-kod.pdb
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.AssemblyInfoInputs.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.AssemblyInfo.cs
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.csproj.CoreCompileInputs.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.sourcelink.json
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\refint\program000-zakladni-kod.dll
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.pdb
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\program000-zakladni-kod.genruntimeconfig.cache
+c:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program000-zakladni-kod\obj\Debug\net8.0\ref\program000-zakladni-kod.dll

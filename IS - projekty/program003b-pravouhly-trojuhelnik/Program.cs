@@ -30,7 +30,7 @@ class Obdelnik{
             Console.WriteLine();
             for(int i = 1; i <= odvesna; i++){
                 for(int j = 1; j <= i; j++){
-                    Console.Write("*");
+                    Console.Write("* ");
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
                 }
                 Console.WriteLine();
