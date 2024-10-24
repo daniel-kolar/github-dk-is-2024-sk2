@@ -52,13 +52,15 @@ class Vypis_rady{
             int kladne = 0;
             int zaporne = 0;
             int nuly = 0;
+            int suda = 0;
+            int licha = 0;
 
             for(int i = 0; i < n; i++){
                 myArray[i] = randomNumber.Next(dm, hm + 1); //generator
                 Console.Write("{0}; ", myArray[i]);
 
-                //neoptimalni reseni
-                /*if(myArray[i] > 0) //rozhodovani jestli je cislo kladne, zaporne nebo nula
+                //rozhodovani jestli je cislo kladne, zaporne nebo nula
+                /*if(myArray[i] > 0) //neoptimalni reseni
                     kladne++;
                 if(myArray[i] < 0)
                     zaporne++;
@@ -66,18 +68,25 @@ class Vypis_rady{
                     nuly++;*/
 
 
-                //optimalni reseni
-                if(myArray[i] > 0)
+                //rozhodovani jestli je cislo kladne, zaporne nebo nula
+                if(myArray[i] > 0) //optimalni reseni
                     kladne++;
                 else if(myArray[i] < 0)
                     zaporne++;
                 else
                     nuly++;
+
+                //rozhodovani sudosti nebo lichosti
+                if(myArray[i] % 2 == 0)
+                    suda++;
+                else licha++;
             }
 
             Console.WriteLine("\n\npocet kladnych cisel: {0} ", kladne);
             Console.WriteLine("pocet zapornych cisel: {0} ", zaporne);
             Console.WriteLine("nulova cisel: {0}", nuly);
+            Console.WriteLine("\n\npocet sudych cisel: {0} ", suda);
+            Console.WriteLine("pocet lichych cisel: {0} ", licha);
 
 
             //opakovani programu - TO-DO
