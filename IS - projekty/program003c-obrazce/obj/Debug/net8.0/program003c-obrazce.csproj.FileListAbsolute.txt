@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\refint\program003c-obrazce.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program003c-obrazce\obj\Debug\net8.0\ref\program003c-obrazce.dll
