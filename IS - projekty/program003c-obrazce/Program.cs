@@ -25,13 +25,18 @@ class Vypis_rady{
                 Console.WriteLine("Nezadali jste cele cislo. Zadejte znovu celé číslo: ");
             }
 
+            if(velikost < 0){
+                Console.WriteLine("Prosim zadejte kladnou hodnotu (velikost obrazce muze byt pouze kladna)");
+                goto opakovani;
+            }
+
             //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
 
             //vykreslovaní obrazců - Šachovnice
             Console.WriteLine("\nŠachovnice");
-            for (int i = 0; i < velikost; i++){ //řádky
-                for (int j = 0; j < velikost; j++){ //sloupce
-                    if ((i + j) % 2 == 0){
+            for (int i = 0; i < velikost; i++){
+                for (int j = 0; j < velikost; j++){
+                    if ((i + j) % 2 == 0){ //vypisuju jenom sude souradnice
                         Console.Write("* ");
                     } else Console.Write("  ");
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
@@ -47,9 +52,9 @@ class Vypis_rady{
             Console.WriteLine("\nKříž");
             for (int i = 0; i < velikost; i++){
                 for (int j = 0; j < velikost; j++){
-                    if(i == 0 || i == velikost - 1 || j== 0 || j == velikost - 1){ //okraj
+                    if(i == 0 || i == velikost - 1 || j == 0 || j == velikost - 1){ //okraj
                         Console.Write("* ");
-                    } else if(i == velikost/2 || j == velikost / 2){ //kriz
+                    } else if(i == velikost / 2 || j == velikost / 2){ //kriz
                         Console.Write("* ");
                     } else Console.Write("  ");
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
@@ -65,9 +70,9 @@ class Vypis_rady{
             Console.WriteLine("\nPismeno Z");
             for(int i = 0; i < velikost+1; i++){
                 for(int j = 0; j < velikost+1; j++){
-                    if(Math.Abs(i - velikost)+Math.Abs(j - velikost) == velikost){
+                    if(Math.Abs(i - velikost) + Math.Abs(j - velikost) == velikost){ //diagonala
                         Console.Write("* ");
-                    } else if(i == 0 || i == velikost){
+                    } else if(i == 0 || i == velikost){ //vyrsek a spodek
                         Console.Write("* ");
                     } else Console.Write("  ");
                     System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
@@ -82,8 +87,9 @@ class Vypis_rady{
             
 
             //opakovaní programu
-            Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
-            again = Console.ReadLine();
+            opakovani:
+                Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
+                again = Console.ReadLine();
         }
     }
 }
