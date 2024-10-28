@@ -34,6 +34,7 @@ class Vypis_rady{
                     if ((i + j) % 2 == 0){
                         Console.Write("* ");
                     } else Console.Write("  ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
                 }
             Console.WriteLine();
             }
@@ -51,6 +52,7 @@ class Vypis_rady{
                     } else if(i == velikost/2 || j == velikost / 2){ //kriz
                         Console.Write("* ");
                     } else Console.Write("  ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
                 }
             Console.WriteLine();
             }
@@ -68,6 +70,7 @@ class Vypis_rady{
                     } else if(i == 0 || i == velikost){
                         Console.Write("* ");
                     } else Console.Write("  ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
                 }
                 Console.WriteLine();
             }
