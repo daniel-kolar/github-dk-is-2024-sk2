@@ -27,7 +27,7 @@ class Vypis_rady{
 
             //System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100));
 
-            //vykreslovani obrazcu - Šachovnice
+            //vykreslovaní obrazců - Šachovnice
             Console.WriteLine("\nŠachovnice");
             for (int i = 0; i < velikost; i++){ //řádky
                 for (int j = 0; j < velikost; j++){ //sloupce
@@ -43,7 +43,7 @@ class Vypis_rady{
             Console.WriteLine("===========Další obrázek=============");
             Console.WriteLine("=====================================\n\n");
 
-            //vykresleni obrazcu - kříž
+            //vykreslení obrazců - kříž
             Console.WriteLine("\nKříž");
             for (int i = 0; i < velikost; i++){
                 for (int j = 0; j < velikost; j++){
@@ -61,7 +61,7 @@ class Vypis_rady{
             Console.WriteLine("===========Další obrázek=============");
             Console.WriteLine("=====================================\n\n");
 
-            //vykresleni obrazce - pismeno Z
+            //vykreslení obrazců - pismeno Z
             Console.WriteLine("\nPismeno Z");
             for(int i = 0; i < velikost+1; i++){
                 for(int j = 0; j < velikost+1; j++){
@@ -81,7 +81,7 @@ class Vypis_rady{
 
             
 
-            //opakovani programu - TO-DO
+            //opakovaní programu
             Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
             again = Console.ReadLine();
         }
