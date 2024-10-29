@@ -68,8 +68,8 @@ class Vypis_rady{
 
             //vykreslení obrazců - pismeno Z
             Console.WriteLine("\nPismeno Z");
-            for(int i = 0; i < velikost+1; i++){
-                for(int j = 0; j < velikost+1; j++){
+            for(int i = 0; i < velikost + 1; i++){
+                for(int j = 0; j < velikost + 1; j++){
                     if(Math.Abs(i - velikost) + Math.Abs(j - velikost) == velikost){ //diagonala
                         Console.Write("* ");
                     } else if(i == 0 || i == velikost){ //vyrsek a spodek
@@ -97,7 +97,27 @@ class Vypis_rady{
                 }
                 Console.WriteLine();
             }
+
+            Console.WriteLine("\n\n=====================================");
+            Console.WriteLine("===========Další obrázek=============");
+            Console.WriteLine("=====================================\n\n");
             
+            //vykreslení obrazců - hvezda
+            Console.WriteLine("\nhvezda");
+            for(int i = 0; i < velikost + 1; i++){
+                for(int j = 0; j < velikost + 1; j++){
+                    if(i == j){ //diagonaly
+                        Console.Write("* ");
+                    } else if(i == velikost / 2 || j == velikost / 2){
+                        Console.Write("* ");
+                    } else if(Math.Abs(i - velikost) + Math.Abs(j - velikost) == velikost){
+                        Console.Write("* ");
+                    } else Console.Write("  ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
+                }
+                Console.WriteLine();
+            }
+
             Console.WriteLine("\n\n=====================================");
             Console.WriteLine("=====================================");
             Console.WriteLine("=====================================\n\n");
