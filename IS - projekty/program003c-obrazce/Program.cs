@@ -81,6 +81,24 @@ class Vypis_rady{
             }
 
             Console.WriteLine("\n\n=====================================");
+            Console.WriteLine("===========Další obrázek=============");
+            Console.WriteLine("=====================================\n\n");
+
+            //vykreslení obrazců - N
+            Console.WriteLine("\nPismeno N");
+            for(int i = 0; i < velikost; i++){
+                for(int j = 0; j < velikost; j++){
+                    if(i == j){
+                        Console.Write("* ");
+                    } else if(j == 0 || j == velikost-1){
+                        Console.Write("* ");
+                    } else Console.Write("  ");
+                    System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(10));
+                }
+                Console.WriteLine();
+            }
+            
+            Console.WriteLine("\n\n=====================================");
             Console.WriteLine("=====================================");
             Console.WriteLine("=====================================\n\n");
 
