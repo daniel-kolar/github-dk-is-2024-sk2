@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\refint\program005-max-min.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program005-max-min\obj\Debug\net8.0\ref\program005-max-min.dll
