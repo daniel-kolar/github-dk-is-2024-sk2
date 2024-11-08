@@ -27,28 +27,31 @@ class Vypis_rady{
             Console.WriteLine(myText.Length); //vypise delku textu
             Console.WriteLine(myText[myText.Length-1]); //vypise posledni char
 
+            string samohlasky = "aáeéěiíoóuůúyý";
+            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž";
+            string cislice = "0123456789";
+
             int pocetSamohlasky = 0;
             int pocetSouhlasky = 0;
-            int pocetCislice = 0;
+            int pocetCislic = 0;
             int pocetZnaky = 0;
 
-
             //TO-DO: opravit + dodelat domaci ukol
-            /*foreach(char znak in myText){
-                if(souhlasky.Contains(znak)){
-                    pocetSouhlasky++;
-                } else if (samohlasky.Contains(znak)){
+            foreach(char znak in myText){
+                if(samohlasky.Contains(znak)){
                     pocetSamohlasky++;
-                } else if (cislice.Contains(znak)){
-                    pocetCislice++;
+                } else if(souhlasky.Contains(znak)){
+                    pocetSouhlasky++;
+                } else if(cislice.Contains(znak)){
+                    pocetCislic++;
                 } else pocetZnaky++;
-            }*/
+            }
 
             
-            Console.WriteLine("\n\nPocet samohlasek: [0]", pocetSamohlasky);
-            Console.WriteLine("\n\nPocet souhlasek: [0]", pocetSouhlasky);
-            Console.WriteLine("\n\nPocet samohlasek: [0]", pocetCislice);
-            Console.WriteLine("\n\nPocet samohlasek: [0]", pocetZnaky);
+            Console.WriteLine("\n\nPocet samohlasek: {0}", pocetSamohlasky);
+            Console.WriteLine("Pocet souhlasek: {0}", pocetSouhlasky);
+            Console.WriteLine("Pocet cislic: {0}", pocetCislic);
+            Console.WriteLine("Pocet zvlastnich znaku: {0}", pocetZnaky);
 
 
             //opakovani programu - TO-DO
