@@ -27,8 +27,8 @@ class Vypis_rady{
             Console.WriteLine(myText.Length); //vypise delku textu
             Console.WriteLine(myText[myText.Length-1]); //vypise posledni char
 
-            string samohlasky = "aáeéěiíoóuůúyý";
-            string souhlasky = "bcčdďfghjklmnňpqrřsštťvwxzž";
+            string samohlasky = "aAáÁeEéÉěĚiIíÍoOóÓuUůŮúÚyYýÝ";
+            string souhlasky = "bBcCčČdDďĎfFgGhHjJkKlLmMnNňŇpPqQrRřŘsSšŠtTťŤvVwWxXyYzZžŽ";
             string cislice = "0123456789";
 
             int pocetSamohlasky = 0;
