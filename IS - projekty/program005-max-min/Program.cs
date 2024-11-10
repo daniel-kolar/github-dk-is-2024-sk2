@@ -59,6 +59,10 @@ class Generator{
             int minimum = myArray[0];
             int maxPozice = 0;
             int minPozice = 0;
+            int[] poziceMaxim = new int[n];
+            int[] poziceMinim = new int[n];
+            int pocetMaxim = 0;
+            int pocetMinim = 0;
 
             //algoritmus pro nalezeni maxima a minima generovanych cisel
             for(int i = 1; i < n; i++){
@@ -72,12 +76,39 @@ class Generator{
                 }
             }
 
+            Console.WriteLine("\n\nPrvni minimum generovanych cisel je: {0} a je na pozici: {1}", minimum, minPozice);
+            Console.WriteLine("Prvni Maximum generovanych cisel je: {0} a je na pozici: {1}", maximum, maxPozice);
+            Console.WriteLine("\n\nPozice vsech maximalnich hodnot: ");
+            for(int i = 1; i < n; i++){
+                if(myArray[i] == maximum){
+                    poziceMaxim[i] = i;
+                    Console.Write(i+ ", ");
+                    pocetMaxim++;
+                }
+            }
+            Console.WriteLine("\nObjevili se celkem: {0}", pocetMaxim);
+            Console.WriteLine("\n\nPozice vsech minimalnich hodnot: ");
+            for(int i = 1; i < n; i++){
+                if(myArray[i] == minimum){
+                    poziceMinim[i] = i;
+                    Console.Write(i + ", ");
+                    pocetMinim++;
+                }
+            }
+            Console.WriteLine("\nObjevili se celkem: {0}", pocetMinim);
+
             //TO-DO: pokud se maximum nebo minimum objevi vicekrat, tak vypsat kolikrat se objevila a jejich pozice
-
-
-            Console.WriteLine("\n\nMinimum generovanych cisel je: {0} a je na pozici: {1}", minimum, minPozice);
-            Console.WriteLine("Maximum generovanych cisel je: {0} a je na pozici: {1}", maximum, maxPozice);
-
+            /*for(int i = 1; i < n; i++){
+                if(myArray[i] == maximum){
+                    poziceMaxim[i] = i;
+                    Console.Write(i);
+                }
+                else if(myArray[i] == minimum){
+                    poziceMinim[i] = i;
+                    Console.Write("\nMinima jsou na pozicich: {0}", i);
+                }
+            }*/
+            
             //opakovani programu - TO-DO
             Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
             again = Console.ReadLine();
