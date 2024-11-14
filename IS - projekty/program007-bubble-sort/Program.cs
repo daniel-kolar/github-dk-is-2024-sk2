@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Concurrent;
+using System.Diagnostics; // pouzivame pro Stopwatch()
 using System.Reflection;
 
 class Vypis_rady{
@@ -42,7 +43,7 @@ class Vypis_rady{
             Console.WriteLine("=====================\n\n");
 
             //deklarace array(pole) - vic suplicku pro data, ktery maji svoje indexy
-            int[] myArray = new int[n]; //UZITECNE - nauc se to (vis, ze ti pole nikdy nesli)
+            int[] myArray = new int[n];     //UZITECNE - nauc se to (vis, ze ti pole nikdy nesli)
             
             //priprava pro generovani nahodnych cisel
             Random randomNumber = new Random();
@@ -51,8 +52,43 @@ class Vypis_rady{
 
             for(int i = 0; i < n; i++){
                 myArray[i] = randomNumber.Next(dm, hm + 1);
-                Console.WriteLine("{0}: ", myArray[i]);
+                Console.Write("{0}, ", myArray[i]);
             }
+            //stopky pro casovani naseho algoritmu - jak rychle to srovnani provede
+            Stopwatch myStopwatch = new Stopwatch();
+
+            //pocet srovnani a zmen
+            int numberCompare = 0;
+            int numberChange = 0;
+
+            myStopwatch.Start();    //stopky zapinam
+
+            //algoritmus pro Bubblesort
+            for (int i = 0; i < n-1; i++){      //for pro projiti vsech prvku generovanyho pole
+                for(int j = 0; j < n-i-1; j++){     //for pro porovnani prvků v generovanym poli
+                    numberCompare++;        //pocet porovnani --> kolikrat se cisla v poli porovnaji
+                    if(myArray[j] < myArray[j+1]){      //samotny porovnavani prvku
+                        int tmp = myArray[j];       //int tmp je temporal number, ktery existuje jenom a pouze pro tento algoritmus. Po provedeni zanika
+                        myArray[j] = myArray[j+1];
+                        myArray[j+1] = tmp;
+                        numberChange++;     //pocet zmen --> kolikrat se cisla vymeni
+                    }
+                }
+            }
+
+            myStopwatch.Stop();     //stopky vypinam
+
+            Console.WriteLine("\n\n\nSeřazené pole čísel");
+            for(int i = 0; i < n; i++){
+                Console.Write("{0}, ", myArray[i]);
+            }
+
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.BackgroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine("\n\nČas potřebný na seřazení pole pomocí BubbleSort: {0}", myStopwatch.Elapsed);     //vypsani casu
+            Console.WriteLine("Počet porovnaní: {0}", numberCompare);
+            Console.WriteLine("Počet změn: {0}", numberChange);
+            Console.ResetColor();
 
 
             //opakovani programu - TO-DO

@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\bin\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\refint\program007-bubble-sort.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\program007-bubble-sort.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program007-bubble-sort\obj\Debug\net8.0\ref\program007-bubble-sort.dll
