@@ -51,10 +51,21 @@ class Vypis_rady{
 
             for(int i = 0; i < n; i++){
                 myArray[i] = randomNumber.Next(dm, hm + 1);
-                Console.WriteLine("{0}: ", myArray[i]);
+                Console.Write("{0}, ", myArray[i]);
             }
 
-            
+            //algoritmus pro reverzi pole
+            for(int i = 0; i < n/2; i++){
+                int tmp = myArray[i];
+                myArray[i] = myArray[n-i-1];
+                myArray[n-i-1] = tmp;
+            }
+
+            //vypsani reverze pole
+            Console.WriteLine("\nPokus reverze pole");
+            for(int i = 0; i < n; i++){
+                Console.Write("{0}, ", myArray[i]);
+            }
 
 
             //opakovani programu - TO-DO

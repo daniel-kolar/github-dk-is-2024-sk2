@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\bin\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\refint\program009-array-reversing.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\program009-array-reversing.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program009-array-reversing\obj\Debug\net8.0\ref\program009-array-reversing.dll
