@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program008-radici-metody")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2caffddb17e3c839a8af0c720a6c837654e726dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b63f65f6a97bad57f5a8babb306d84cda496cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("program008-radici-metody")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program008-radici-metody")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
