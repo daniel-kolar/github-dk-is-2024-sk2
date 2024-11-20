@@ -150,6 +150,64 @@ class Vypis_rady{
             Console.WriteLine("\n\nCas Shaker sort: {0} ms", myStopwatch.Elapsed);
 
 
+            //COMB SORT
+            myStopwatch.Reset();
+            myStopwatch.Start();
+
+            int gap = n; //zacatek rozdilu
+            bool swappedComb = true;
+
+            while(gap != 1 || swappedComb){ //zmensuju gap
+                gap = (int)(gap / 1.3);
+                if(gap < 1) gap = 1; //gap nesmí byt menší než 1
+                swappedComb = false;
+
+                for(int i = 0; i < n - gap; i++){ //projizdim od zdola nahoru
+                    if(myArray[i] < myArray[i + gap]){
+                        int tmp = myArray[i];
+                        myArray[i] = myArray[i + gap];
+                        myArray[i + gap] = tmp;
+                        swappedComb = true;
+                    }
+                }
+            }
+            myStopwatch.Stop();
+
+            Console.WriteLine("\n\nSeřazené pole pomocí Comb sort:");
+            for(int i = 0; i < n; i++){
+                Console.Write("{0}, ", myArray[i]);
+            }
+            Console.WriteLine("\n\nCas Comb sort: {0}", myStopwatch.Elapsed);
+
+
+            //SHELL SORT
+            myStopwatch.Reset();
+            myStopwatch.Start();
+            
+            int gapShell = n / 2; //inicializace gapu, zacne s polovinou pole
+
+            while(gap > 0){ //dokud je gap vetsi jak 0, tak sortuju
+                for (int i = gapShell; i < n; i++){ //pro kazdy prvek v poli od gapu do konce
+                    int tmp = myArray[i];
+                    int j;
+                
+                for(j = i; j >= gapShell && myArray[j - gapShell] < tmp; j -= gapShell){ //posunu prvky, ktere jsou vetsi nez tmp, na jednu pozici doprava
+                    myArray[j] = myArray[j - gapShell];
+                } 
+                myArray[j] = tmp; //nastav tmp na j-te pozici
+                }
+                gapShell = gapShell / 2; //zmensuju gap
+                break;
+            }
+            myStopwatch.Stop();
+
+            Console.WriteLine("\n\nSerazene pole pomoci Shell sort: ");
+            for (int i = 0; i < n; i++){
+                Console.Write("{0}, ", myArray[i]);
+            }
+            Console.WriteLine("\n\nCas Shell sort: {0}", myStopwatch.Elapsed);
+
+
 
             //opakovani programu - TO-DO
             Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
