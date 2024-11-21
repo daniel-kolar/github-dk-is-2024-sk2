@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 class Program {
     static void Main() {
@@ -8,40 +9,40 @@ class Program {
         while(again == "a") {
             Console.Clear();
             Console.WriteLine("****************************");
-            Console.WriteLine("***** Výpočet PI *****");
+            Console.WriteLine("******** Výpočet PI ********");
             Console.WriteLine("****************************");
-            Console.WriteLine("******* Tomáš Žižka ********");
+            Console.WriteLine("******* Daniel Kolář ********");
             Console.WriteLine("****************************");
             Console.WriteLine();
 
-            Console.Write("Zadejte přesnost (reálné číslo - čím menší hodnota, tím bude výpočet přesnější): ");
+            Console.Write("Zadejte přesnost (reálné číslo - čím menší hodnota, tím přesnější): ");
             double presnost;
             while(!double.TryParse(Console.ReadLine(), out presnost)) {
-                Console.Write("Nezadali jste reálné číslo, zadejte přesnost znovu: ");
+                Console.Write("Nezadali jste reálné číslo správně, zadejte přesnost znovu: ");
             }
 
             double i = 1;
-            double znamenko = 1;
             double piCtvrt = 1;
+            double znamenko = 1;
 
-            while((1/i)>=presnost) {
+            while((1 / i) >= presnost){
                 i = i + 2;
                 znamenko = -znamenko;
-                piCtvrt = piCtvrt + znamenko * (1/i);
+                piCtvrt = piCtvrt + znamenko * (1 / i);
 
-                if(znamenko==1) {
-                    Console.WriteLine("Zlomek: +1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
-                }
-                else {
-                    Console.WriteLine("Zlomek: -1/{0}; aktuální hodnota PI = {1}", i, 4 * piCtvrt);
+                if(znamenko == 1){
+                    Console.WriteLine("+1/{0}; hodnota PI = {1}", i, 4 * piCtvrt);
+                } else {
+                    Console.WriteLine("-1/{0}; hodnota PI = {1}", i, 4 * piCtvrt);
                 }
             }
 
-            Console.WriteLine("\n\n Hodnota čísla PI = {0}", 4 * piCtvrt);
-            //Console.WriteLine("\n\n Hodnota čísla PI = {0:f4}", 4 * piCtvrt);
+            Console.WriteLine("Hodnota PI = {0}", 4 * piCtvrt);
+            //Console.WriteLine("Hodnota PI = {0:f4}", 4 * piCtvrt);
+
 
             Console.WriteLine();
-            Console.WriteLine("Pro opakování programu stiskněte klávesu A");
+            Console.WriteLine("Pro opakování programu stiskněte klávesu a");
             again = Console.ReadLine();
 
         }
