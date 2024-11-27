@@ -23,18 +23,28 @@ class Vypis_rady{
                 Console.WriteLine("Nezadali jste cele cislo. Zadejte znovu celé číslo, které chcete převest do binárního soustavy: ");
             }
 
-            //jenom teoreticky "nacrt" jak to asi bude fungovat
-            int[] binary = new int[decimalNumber];
-
-            if(decimalNumber / 2 == 0){
-                binary [0] += 0;
-            }
-            if(decimalNumber / 2 != 0){
-                binary[0] += 1;
-            }
-
             Console.Write("{0} v binární soustavě je: ", decimalNumber);
-            Console.Write("{0} ", binary[0]);
+
+            //Prevod do binarni soustavy a ulozeni do pole
+            int [] binaryArray = new int[100]; //pole pro 100 bitů
+            int index = 0;
+
+            if(decimalNumber == 0){
+                binaryArray[index++] = 0;
+            } else{
+                while(decimalNumber > 0){
+                    binaryArray[index++] = decimalNumber % 2; //přídání zbytku z dělení na začátek
+                    decimalNumber /= 2; //dělení čísla 2                
+               }
+           }
+
+            for(int i = index - 1; i >= 0; i--){ //vypis pole pozpatku
+                Console.Write(binaryArray[i]);
+                if(i % 4 == 0){
+                    Console.Write(" ");
+                }
+            } 
+            
 
 
             /* jen pro ukazku a testovani
@@ -43,7 +53,7 @@ class Vypis_rady{
             Console.WriteLine(number);*/
 
             //opakovani programu - TO-DO
-            Console.WriteLine("pro opakovani programu stisknete klavesu a");
+            Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
             again = Console.ReadLine();
         }
     }
