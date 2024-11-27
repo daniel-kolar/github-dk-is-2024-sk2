@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\bin\Debug\net8.0\program014a-10to2.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\bin\Debug\net8.0\program014a-10to2.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\bin\Debug\net8.0\program014a-10to2.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\bin\Debug\net8.0\program014a-10to2.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\bin\Debug\net8.0\program014a-10to2.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\refint\program014a-10to2.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\program014a-10to2.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program014a-10to2\obj\Debug\net8.0\ref\program014a-10to2.dll
