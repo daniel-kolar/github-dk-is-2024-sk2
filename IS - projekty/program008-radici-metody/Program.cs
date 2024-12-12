@@ -208,7 +208,6 @@ class Vypis_rady{
             Console.WriteLine("\n\nCas Shell sort: {0}", myStopwatch.Elapsed);
 
 
-
             //opakovani programu - TO-DO
             Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
             again = Console.ReadLine();

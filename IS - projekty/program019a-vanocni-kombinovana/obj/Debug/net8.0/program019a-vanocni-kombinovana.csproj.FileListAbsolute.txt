@@ -1,0 +1,15 @@
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\bin\Debug\net8.0\program019a-vanocni-kombinovana.exe
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\bin\Debug\net8.0\program019a-vanocni-kombinovana.deps.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\bin\Debug\net8.0\program019a-vanocni-kombinovana.runtimeconfig.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\bin\Debug\net8.0\program019a-vanocni-kombinovana.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\bin\Debug\net8.0\program019a-vanocni-kombinovana.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.AssemblyInfoInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.AssemblyInfo.cs
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.csproj.CoreCompileInputs.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.sourcelink.json
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\refint\program019a-vanocni-kombinovana.dll
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.pdb
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\program019a-vanocni-kombinovana.genruntimeconfig.cache
+C:\Users\danth\OneDrive\Plocha\TUL\1. Semester\Informace a systémy\IS-2024\github-dk-is-2024-sk2\IS - projekty\program019a-vanocni-kombinovana\obj\Debug\net8.0\ref\program019a-vanocni-kombinovana.dll
