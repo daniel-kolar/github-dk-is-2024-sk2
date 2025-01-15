@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\program001-výpis-řady.csproj": {}
+    "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\IS-test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\program001-výpis-řady.csproj": {
+    "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\IS-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\program001-výpis-řady.csproj",
-        "projectName": "program001-výpis-řady",
-        "projectPath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\program001-výpis-řady.csproj",
+        "projectUniqueName": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\IS-test.csproj",
+        "projectName": "IS-test",
+        "projectPath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\IS-test.csproj",
         "packagesPath": "C:\\Users\\danth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\obj\\",
+        "outputPath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danth\\AppData\\Roaming\\NuGet\\NuGet.Config"

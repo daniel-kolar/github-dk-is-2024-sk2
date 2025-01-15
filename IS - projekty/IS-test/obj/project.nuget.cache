@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zQmX/zgHqPY=",
+  "dgSpecHash": "2akQVvyOPtY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\program001-výpis-řady\\program001-výpis-řady.csproj",
+  "projectFilePath": "C:\\Users\\danth\\OneDrive\\Plocha\\TUL\\1. Semester\\Informace a systémy\\IS-2024\\github-dk-is-2024-sk2\\IS - projekty\\IS-test\\IS-test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danth\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.12\\microsoft.netcore.app.ref.8.0.12.nupkg.sha512",
     "C:\\Users\\danth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.12\\microsoft.windowsdesktop.app.ref.8.0.12.nupkg.sha512",

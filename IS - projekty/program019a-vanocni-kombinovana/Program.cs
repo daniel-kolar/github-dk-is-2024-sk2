@@ -73,6 +73,32 @@ class Vypis_rady{
 
             Stopwatch myStopwatch = new Stopwatch();
 
+            // Inicializace proměnných
+            int maxValue = 0;
+            List<int> maxIndices = new List<int>();
+
+            // Procházení pole
+            for (int i = 0; i < n; i++)
+            {
+                if (myArray[i] > maxValue)
+                {
+                    maxValue = myArray[i];
+                    maxIndices.Clear();
+                    maxIndices.Add(i);
+                }
+                else if (myArray[i] == maxValue)
+                {
+                    maxIndices.Add(i);
+                }
+            }
+
+            // Výstup
+            Console.WriteLine("\n\nPozice největšího čísla v poli:");
+            foreach (int index in maxIndices)
+            {
+                Console.Write("{0}, ", index);
+            }
+            
             //COMB SORT
             int gap = n;
             bool swappedComb = true;
@@ -100,7 +126,7 @@ class Vypis_rady{
                 Console.Write("{0}, ", myArray[i]);
             }
             Console.WriteLine("\nČas Comb Sort: {0}", myStopwatch.Elapsed);
-
+            
             //INSERTION SORT
             myStopwatch.Start();
             for(int i = 1; i < n - 1; i++){
@@ -119,6 +145,40 @@ class Vypis_rady{
             }
             Console.WriteLine("\nČas Insertion Sort: {0}", myStopwatch.Elapsed);
 
+            //nalezeni 3. nejvetsich cisel v poli
+            int first = 0;
+            int second = 0;
+            int third = 0;
+
+            for (int i = 0; i < n; i++)
+            {
+                int currentNumber = myArray[i];
+
+                // Ignorovat duplicity
+                if (currentNumber == first || currentNumber == second || currentNumber == third)
+                    continue;
+
+                if (currentNumber > first)
+                {
+                    third = second;
+                    second = first;
+                    first = currentNumber;
+                }
+                else if (currentNumber > second)
+                {
+                    third = second;
+                    second = currentNumber;
+                }
+                else if (currentNumber > third)
+                {
+                    third = currentNumber;
+                }
+            }
+
+            Console.WriteLine("\n\nPrvní tři největší čísla (bez duplicit):");
+            Console.WriteLine("První: {0}, Druhé: {1}, Třetí: {2}", first, second, third);
+
+
             //KRESLENI STROMU
             Console.WriteLine("\n\nKreslený strom: ");
             for(int i = 0; i <= prumerPole; i++){
@@ -126,7 +186,6 @@ class Vypis_rady{
                     Console.Write("* ");    
                 }
             }
-
 
             //opakovani programu - TO-DO
             Console.WriteLine("\n\npro opakovani programu stisknete klavesu a");
